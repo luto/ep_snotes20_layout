@@ -1,0 +1,10 @@
+{
+    "parts": [
+        {
+            "name": "ep_snotes20_layout",
+            "hooks": {
+                "eejsBlock_styles": "ep_snotes20_layout/index"
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+#editbar {
+    display: none;
+}
+
+#chaticon {
+    display: none;
+}
+
+#editorcontainer {
+    top: 0;
+}
