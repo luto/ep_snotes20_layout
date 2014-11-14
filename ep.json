@@ -2,6 +2,9 @@
     "parts": [
         {
             "name": "ep_snotes20_layout",
+            "client_hooks": {
+                "aceEditorCSS": "ep_snotes20_layout/static/js/snoteslayout:aceEditorCSS"
+            },
             "hooks": {
                 "eejsBlock_styles": "ep_snotes20_layout/index"
             }
